@@ -1,7 +1,5 @@
 # 💫 About Me:
-# Markaz Gasimov
-
-Mobile App Developer
+# Mobile App Developer
 
 Hello there! I'm Markaz Gasimov, a passionate Mobile App Developer with a focus on Flutter and Dart. Creating both iOS and Android applications is my forte. I rely on Hive for efficient local database management and turn to Firebase to handle the backend aspects. I'm on a perpetual journey of self-improvement in this ever-evolving field, constantly learning and expanding my skill set.
 
